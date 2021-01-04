@@ -10,7 +10,6 @@ namespace ConsoleAppGeometriH2
 {
     class RetvinkletTrekant : Square
     {
-        int sideA;
         int sideB { set; get; }
 
         public RetvinkletTrekant(int a, int b) : base (a)
