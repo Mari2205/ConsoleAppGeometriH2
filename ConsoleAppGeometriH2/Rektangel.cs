@@ -10,7 +10,7 @@ namespace ConsoleAppGeometriH2
     {
         private int sideB { set; get; }
  
-        public Rektangel(int a, int b) : base(a)
+        public Rektangel(int a, int b) : base()
         {
             sideA = a;
             sideB = b;
