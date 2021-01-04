@@ -10,7 +10,6 @@ namespace ConsoleAppGeometriH2
 {
     class Parallelogram : Square
     {
-        private int sideA;
         private int sideB { get; set; }
         private int vinkle { get; set; }
 
