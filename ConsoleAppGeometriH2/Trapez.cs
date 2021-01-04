@@ -8,7 +8,6 @@ namespace ConsoleAppGeometriH2
 {
     class Trapez : Square
     {
-        private int sideA;
         private int sideB { get; set; }
         private int sideC { get; set; }
         private int sideD { get; set; }
