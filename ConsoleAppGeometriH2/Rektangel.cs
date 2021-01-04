@@ -8,7 +8,6 @@ namespace ConsoleAppGeometriH2
 {
     public class Rektangel : Square
     {
-        private int sideA;
         private int sideB { set; get; }
  
         public Rektangel(int a, int b) : base(a)
